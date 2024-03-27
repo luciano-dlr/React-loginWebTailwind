@@ -19,7 +19,7 @@ export const App = () => {
           <span className="inline-flex items-center justify-center p-0 bg-indigo-50 rounded-md shadow-lg">
 
             <h1 className="bg-white ">
-              Hello world!
+              Hello world! Testing
             </h1>
           </span>
         </div>
